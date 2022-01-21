@@ -1,0 +1,32 @@
+C:\Users\Dione Guielebo\Desktop\hello_world\bin\Debug\net5.0\hello_world.exe
+C:\Users\Dione Guielebo\Desktop\hello_world\bin\Debug\net5.0\hello_world.deps.json
+C:\Users\Dione Guielebo\Desktop\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.json
+C:\Users\Dione Guielebo\Desktop\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.dev.json
+C:\Users\Dione Guielebo\Desktop\hello_world\bin\Debug\net5.0\hello_world.dll
+C:\Users\Dione Guielebo\Desktop\hello_world\bin\Debug\net5.0\ref\hello_world.dll
+C:\Users\Dione Guielebo\Desktop\hello_world\bin\Debug\net5.0\hello_world.pdb
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.csproj.AssemblyReference.cache
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfo.cs
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.dll
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\ref\hello_world.dll
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.pdb
+C:\Users\Dione Guielebo\Desktop\hello_world\obj\Debug\net5.0\hello_world.genruntimeconfig.cache
+D:\trendyfy\hello_world\bin\Debug\net5.0\hello_world.exe
+D:\trendyfy\hello_world\bin\Debug\net5.0\hello_world.deps.json
+D:\trendyfy\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.json
+D:\trendyfy\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.dev.json
+D:\trendyfy\hello_world\bin\Debug\net5.0\hello_world.dll
+D:\trendyfy\hello_world\bin\Debug\net5.0\ref\hello_world.dll
+D:\trendyfy\hello_world\bin\Debug\net5.0\hello_world.pdb
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.csproj.AssemblyReference.cache
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfoInputs.cache
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfo.cs
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.csproj.CoreCompileInputs.cache
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.dll
+D:\trendyfy\hello_world\obj\Debug\net5.0\ref\hello_world.dll
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.pdb
+D:\trendyfy\hello_world\obj\Debug\net5.0\hello_world.genruntimeconfig.cache
