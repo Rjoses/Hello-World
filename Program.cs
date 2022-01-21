@@ -10,7 +10,7 @@ namespace hello_world
             var name = Console.ReadLine();
             var currentdate = DateTime.Now;
             Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentdate:d} at {currentdate:t}!");
-            Console.WriteLine($"{Environment.NewLine}Press any key to exit.........");
+            Console.WriteLine($"{Environment.NewLine}Press any key to exit...");
             Console.ReadKey(true);
         }
     }
