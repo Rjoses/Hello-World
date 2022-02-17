@@ -9,7 +9,16 @@ namespace hello_world
         {
             var listaPessoa = new List<Candidate>();
             var cont = string.Empty;
+            var proc = string.Empty;
             
+            Console.WriteLine("Cadastramento de pessoas.");
+            Console.WriteLine();
+
+            Console.WriteLine("Deseja fazer um cadastro ? 's' ou 'n'.");
+            proc = Console.ReadLine();
+
+            while(proc == "s")
+            {
             do{
 
             var pessoa = new Candidate();
@@ -33,7 +42,11 @@ namespace hello_world
             cont = Console.ReadLine();
             
             } while(cont == "s");
-            
+            break;
+            }
+
+           
+
             var idCorrentePessoa = 1;
             foreach(var pessoa in listaPessoa) {
 
@@ -43,7 +56,9 @@ namespace hello_world
             Console.WriteLine($"Pessoa {idCorrentePessoa}: Peso: {pessoa.kg}");
             Console.WriteLine();
              idCorrentePessoa = idCorrentePessoa+1;
-            }
+
+             
+            } Console.WriteLine("Obrigado.");
         }
     }
 }
